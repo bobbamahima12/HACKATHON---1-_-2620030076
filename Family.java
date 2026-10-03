@@ -26,8 +26,3 @@ public class Family {
     }
 }
 
-output:-
-Enter the number of family members: 4
-Enter the amount of water consumed (in liters): 30
-Enter the house number: 2
-Enter the Water usage status (Y/N): Y
