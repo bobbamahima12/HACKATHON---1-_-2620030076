@@ -22,3 +22,8 @@ public class Water {
         scanner.close();
     }
 }
+
+output:-
+Enter morning water usage: 50
+Enter evening water usage: 60
+Total water consumption: 110 liters
