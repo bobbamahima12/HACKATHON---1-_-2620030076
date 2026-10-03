@@ -11,3 +11,7 @@ public class WaterConsumption {
         }
     }
 }
+
+output :-
+Enter water consumption: 500
+Water Bill is Rs.100.
