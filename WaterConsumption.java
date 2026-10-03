@@ -15,3 +15,6 @@ public class WaterConsumption {
 output :-
 Enter water consumption: 500
 Water Bill is Rs.100.
+
+Enter water consumption: 800
+Water Bill is Rs.200.    
